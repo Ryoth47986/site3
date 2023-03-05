@@ -1,0 +1,45 @@
+.ss {
+    padding-top: 100px;
+    width: 1300px;
+    }
+    
+    .button1 {
+    position: relative;
+    top: 95%;
+    left: 50%;
+    border: 0;
+    background: 0;
+    color: white;
+    }
+    
+    .blazer {
+    width: 1300px;
+    padding-top: 100px;
+    }
+    
+    .button2 {
+    position: relative;
+    top: 95%;
+    left: 50%;
+    border: 0;
+    background: 0;
+    }
+    
+    .coat {
+    width: 1300px;
+    padding-top: 100px;
+    }
+    
+    .button3 {
+    position: relative;
+    top: 95%;
+    left: 50%;
+    border: 0;
+    background: 0;
+    color: white;
+    }
+    
+    .just1 {
+    color: crimson;
+    padding-top: 15px;
+    }

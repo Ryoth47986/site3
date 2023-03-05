@@ -1,0 +1,22 @@
+.col {
+display: flex;
+border: 0;
+}
+
+.first-section {
+padding-top: 100px;
+border: 0;
+}
+
+.first-section button {
+background: 0;
+border: 0;
+color: black;
+}
+
+.first-section button:hover {
+background: white;
+color: black;
+}
+
+

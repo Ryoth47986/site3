@@ -1,0 +1,263 @@
+
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+max-width: 100%;
+padding: 0px;
+margin: 0px auto;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.ex-group {
+display: flex;
+justify-content: space-around;
+padding-top: 100px;
+background-color: aliceblue;
+margin-bottom: 25px;
+}
+
+.ex1 {
+width: 900px;
+}
+
+.ex2 {
+width: 900px;
+margin-right: 200px;
+}
+
+.big__section1 {
+padding-top: 100px;
+margin-bottom: 50px;
+}
+
+.ex5 {
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.h1 {
+text-align: center;
+padding-top: 50px;
+}
+
+.p1 {
+text-align: center;
+padding-top: 15px;
+}
+
+.button1 {
+position: relative;
+left: 49%;
+border: 0;
+padding: 17px 25px;
+background: none;
+padding-top: 15px;
+}
+
+.button1:hover {
+color: darkgrey;
+transition: 0.5s;
+}
+
+.logo111 {
+padding-top: 100px;
+}
+
+.ul1 {
+padding-top: 100px;
+display: flex;
+justify-content: space-around;
+list-style-type: none;
+gap: 35px;
+}
+
+.a1 {
+text-decoration: none;
+color: black;
+}
+
+.a1:hover {
+color: darkgray;
+transition: 0.5s;
+}
+
+.a2 {
+text-decoration: none;
+color: black;
+}
+
+.a2:hover {
+    color: darkgray;
+    transition: 0.5s;
+    }
+
+.logo222 {
+width: 100px;
+}
+
+.main {
+
+}
+
+.big-img1 {
+padding-top: 25px;
+padding-bottom: 25px;
+border-radius: 5px;
+width: 1300px;
+}
+
+.pon1 {
+padding-bottom: 110px;
+}
+
+.button2 {
+position: relative;
+left: 50%;
+top: 85%;
+border: 0;
+background: 0;
+color: white;
+}
+
+.button2:hover {
+color: darkgrey;
+transition: 0.5s;
+}
+
+.pon2 img {
+width: 1300px;
+margin-bottom: 25px;
+}
+
+.pon2 button {
+position: relative;
+left: 50%;
+top: 90%;
+border: 0;
+background: 0;
+color: white;
+}
+
+.button8:hover {
+color: cornsilk;
+transition: 0.5s;
+}
+
+.pon3 {
+padding-bottom: 110px;
+}
+
+.pon3 img {
+width: 1300px;
+}
+
+.pon3 h3 {
+position: relative;
+top: 10%;
+left: 10%;
+}
+
+.pon3 h4 {
+position: relative;
+left: 10%;
+top: 20%;
+color: white;
+}
+
+.pon3 h5 {
+position: relative;
+left: 10%;
+top: 29%;
+}
+
+.button3 {
+position: relative;
+left: 10%;
+top: 37%;
+border: 0;
+background: 0;
+color: white;
+}
+
+.vl {
+width: 650px;
+}
+
+.button0 {
+position: relative;
+left: 30%;
+border: 0;
+background: 0;
+color: white;
+}
+
+.football {
+width: 650px;
+}
+
+.button-football {
+position: relative;
+left: 30%;
+border: 0;
+background: 0;
+color: white;
+}
+
+.pp {
+display: flex;
+justify-content: space-around;
+gap: 25px;
+padding-right: 125px;
+}
+
+.football-button {
+
+}
+
+.texsts-block {
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.texsts-block2 {
+display: flex;
+justify-content: space-around;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.p5 {
+text-align: center;
+padding-top: 45px;
+}
+
+.rate {
+position: relative;
+border: 0;
+background: 0;
+padding-bottom: 45px;
+left: 50%;
+}
+
+.rate:hover {
+color: darkgray;
+transition: 0.5s;
+}
+
+.young {
+width: 1300px;
+}
+
+.boxes {
+width: 1300px;
+}
+
+.pon4 {
+padding-top: 50px;
+}
